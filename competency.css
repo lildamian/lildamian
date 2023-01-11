@@ -1,0 +1,60 @@
+body  {
+    background-color: #ffef0f;
+    color: #ff0f0f;
+    background-image: linear-gradient(to 
+    bottom, #FFFFFF, #ffef0f);
+    background-repeat: no-repeat;
+    }
+
+header  {
+    background-color: #FFA550;
+    background-image: url(damian.PNG);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #ff0000;
+    line-height: 2600%;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}  
+ nav  { 
+    float: left;
+    width: 100px;
+    margin-right: 10px; 
+ }
+ nav a:hover { text-decoration: red;
+    display: block;
+    transition: background-color 2s linear;  }
+ main{
+    margin-left: 100px;
+ }
+#shakehero {   
+    float: left;
+    height: 200px;
+    margin-left: 100px;
+    background-image: url(shake.PNG);
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+
+}
+ #capturehero {
+    float: left;
+    margin-left: 100px;
+    height: 200px;
+    background-image: url(Capture.PNG);
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+  
+}
+table {
+    border: 2px solid #cc5233;
+    border-collapse: collapse;
+}
+#peperhero {
+    float: left;
+    margin-left: 100px;
+    height: 200px;
+    background-image: url(pepper.PNG);
+    background-size: 25% 100%;
+    background-repeat: no-repeat;
+}
